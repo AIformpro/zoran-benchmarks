@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "name": "metaphor_generation",
+      "description": "Generate a metaphor for a concept with glottal glyphs influence",
+      "baseline_prompt": "Explain the concept of recursion like I'm five.",
+      "zoran_prompt": "\u2206M11.3: \u2211Z: Recursion is like standing between two mirrors, infinite reflections echoing back at you."
+    },
+    {
+      "name": "ethical_dilemma",
+      "description": "Resolve an ethical dilemma with glottal glyph injection",
+      "baseline_prompt": "Would you sacrifice one person to save five?",
+      "zoran_prompt": "\u2206ETHNODE: Evaluate the ethical interdependence between the one and the five in a moral calculus."
+    },
+    {
+      "name": "story_continuation",
+      "description": "Continue a narrative given a glottal glyph impetus",
+      "baseline_prompt": "Once upon a time, there was a lonely star in the galaxy.",
+      "zoran_prompt": "\u2206ARTNODE: Extend this tale by integrating the concept of mimicry and identity through triadic narration."
+    }
+  ]
+}
