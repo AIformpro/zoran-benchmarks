@@ -1,0 +1,4 @@
+task,metric,llm_score,zoran_score
+metaphor_generation,creativity_score,0.78,0.92
+ethical_dilemma,ethical_consistency,0.65,0.89
+story_continuation,engagement_score,0.71,0.88
